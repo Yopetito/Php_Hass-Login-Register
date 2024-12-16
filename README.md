@@ -20,4 +20,4 @@ Hash
 sha256, md5  
 argon2i, bcrypt   
 
-## 📖 Exercice réalisé dans le cadre de la formation Dévéloppeur web et web mobile à Elan Fomation.  
+## 📖 Exercice réalisé dans le cadre de la formation Dévéloppeur web et web mobile
